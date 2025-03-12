@@ -8,3 +8,7 @@
 Headers.
 
 ![Image of Bull](https://w7.pngwing.com/pngs/1005/979/png-transparent-red-bull-cartoon-red-bull-cartoon-character-mammal-animals-thumbnail.png)
+
+```javascript
+var myVar="Hello World";
+```
